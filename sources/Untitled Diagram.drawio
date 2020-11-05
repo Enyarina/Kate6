@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2020-11-05T13:48:07.602Z" agent="5.0 (X11)" etag="0F6qPNj31rgts37f8y7T" version="13.9.1" type="github">
+<mxfile host="app.diagrams.net" modified="2020-11-05T13:57:45.853Z" agent="5.0 (X11)" etag="cbqqiUT9-B5sgiZuC7oP" version="13.9.1" type="github">
   <diagram id="Z-b5cAyWAyKYfnYbo3Bn" name="Page-1">
     <mxGraphModel dx="1355" dy="764" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -29,6 +29,24 @@
             <Array as="points">
               <mxPoint x="379.5" y="200" />
             </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="ooC6lOKoOg2Yj1UFIcr8-11" value="Enter element" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;strokeColor=#000000;" vertex="1" parent="1">
+          <mxGeometry x="300" y="310" width="160" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="ooC6lOKoOg2Yj1UFIcr8-13" value="" style="endArrow=classic;html=1;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="380" y="280" as="sourcePoint" />
+            <mxPoint x="379.5" y="310" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="ooC6lOKoOg2Yj1UFIcr8-15" value="Is type of the element integer?" style="rhombus;whiteSpace=wrap;html=1;strokeColor=#000000;" vertex="1" parent="1">
+          <mxGeometry x="275" y="380" width="210" height="90" as="geometry" />
+        </mxCell>
+        <mxCell id="ooC6lOKoOg2Yj1UFIcr8-17" value="" style="endArrow=classic;html=1;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="379.5" y="350" as="sourcePoint" />
+            <mxPoint x="379.5" y="380" as="targetPoint" />
           </mxGeometry>
         </mxCell>
       </root>

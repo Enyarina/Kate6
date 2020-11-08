@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2020-11-08T18:04:55.652Z" agent="5.0 (X11)" etag="deiH2VY-1AAdRbUkHKdL" version="13.9.2" type="github">
+<mxfile host="app.diagrams.net" modified="2020-11-08T18:17:34.697Z" agent="5.0 (X11)" etag="Whukb7-f6iuK4qtpir8d" version="13.9.2" type="github">
   <diagram id="Z-b5cAyWAyKYfnYbo3Bn" name="Page-1">
     <mxGraphModel dx="1355" dy="764" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -388,15 +388,27 @@
           <mxGeometry x="347.5" y="2085" width="180" height="90" as="geometry" />
         </mxCell>
         <mxCell id="s2mBqUQljC03Y1ilV7Dx-38" value="&lt;font color=&quot;#000000&quot;&gt;&lt;span lang=&quot;en-US&quot;&gt;The 1st box is larger than&lt;br&gt;the 2nd one&lt;/span&gt;&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="602.5" y="2385" width="195" height="60" as="geometry" />
+          <mxGeometry x="602.5" y="2390" width="195" height="60" as="geometry" />
         </mxCell>
         <mxCell id="s2mBqUQljC03Y1ilV7Dx-39" value="Yes" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;" vertex="1" parent="1">
           <mxGeometry x="517.5" y="2105" width="40" height="20" as="geometry" />
         </mxCell>
+        <mxCell id="s2mBqUQljC03Y1ilV7Dx-56" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.25;entryY=0;entryDx=0;entryDy=0;endSize=6;" edge="1" parent="1" source="s2mBqUQljC03Y1ilV7Dx-42" target="s2mBqUQljC03Y1ilV7Dx-55">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="s2mBqUQljC03Y1ilV7Dx-60" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;endSize=6;" edge="1" parent="1" source="s2mBqUQljC03Y1ilV7Dx-42" target="s2mBqUQljC03Y1ilV7Dx-59">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="220" y="2250" />
+              <mxPoint x="220" y="2343" />
+              <mxPoint x="400" y="2343" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
         <mxCell id="s2mBqUQljC03Y1ilV7Dx-42" value="&lt;div&gt;box1_counter&lt;/div&gt;&lt;div&gt;=&lt;br&gt;&lt;/div&gt;&lt;div&gt;box2_counter&lt;br&gt;&lt;/div&gt;" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="247.5" y="2205" width="160" height="90" as="geometry" />
         </mxCell>
-        <mxCell id="s2mBqUQljC03Y1ilV7Dx-51" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;endSize=6;" edge="1" parent="1" source="s2mBqUQljC03Y1ilV7Dx-44">
+        <mxCell id="s2mBqUQljC03Y1ilV7Dx-51" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;endSize=6;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="s2mBqUQljC03Y1ilV7Dx-44" target="s2mBqUQljC03Y1ilV7Dx-55">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="1120" y="2380" as="targetPoint" />
           </mxGeometry>
@@ -419,8 +431,17 @@
         <mxCell id="s2mBqUQljC03Y1ilV7Dx-54" value="No" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;" vertex="1" parent="1">
           <mxGeometry x="657.5" y="1230" width="30" height="20" as="geometry" />
         </mxCell>
-        <mxCell id="s2mBqUQljC03Y1ilV7Dx-55" value="&lt;p class=&quot;western&quot; style=&quot;text-indent: 0cm ; margin-bottom: 0cm ; line-height: 100%&quot; align=&quot;center&quot;&gt;&lt;font color=&quot;#000000&quot;&gt;&lt;span lang=&quot;en-US&quot;&gt;The 1st box is smaller than&lt;br&gt;the 2nd one&lt;/span&gt;&lt;/font&gt;&lt;/p&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="1020" y="2380" width="200" height="60" as="geometry" />
+        <mxCell id="s2mBqUQljC03Y1ilV7Dx-55" value="The 1sr box is smaller than the 2nd one" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1020" y="2390" width="200" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="s2mBqUQljC03Y1ilV7Dx-57" value="No" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;" vertex="1" parent="1">
+          <mxGeometry x="407.5" y="2230" width="30" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="s2mBqUQljC03Y1ilV7Dx-59" value="Boxes are equal" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="340" y="2390" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="s2mBqUQljC03Y1ilV7Dx-61" value="Yes" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;" vertex="1" parent="1">
+          <mxGeometry x="220" y="2230" width="40" height="20" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>

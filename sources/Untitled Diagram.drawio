@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2020-11-08T18:03:19.150Z" agent="5.0 (X11)" etag="2m_J75J4OixyFcSssio4" version="13.9.2" type="github">
+<mxfile host="app.diagrams.net" modified="2020-11-08T18:04:55.652Z" agent="5.0 (X11)" etag="deiH2VY-1AAdRbUkHKdL" version="13.9.2" type="github">
   <diagram id="Z-b5cAyWAyKYfnYbo3Bn" name="Page-1">
     <mxGraphModel dx="1355" dy="764" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -418,6 +418,9 @@
         </mxCell>
         <mxCell id="s2mBqUQljC03Y1ilV7Dx-54" value="No" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;" vertex="1" parent="1">
           <mxGeometry x="657.5" y="1230" width="30" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="s2mBqUQljC03Y1ilV7Dx-55" value="&lt;p class=&quot;western&quot; style=&quot;text-indent: 0cm ; margin-bottom: 0cm ; line-height: 100%&quot; align=&quot;center&quot;&gt;&lt;font color=&quot;#000000&quot;&gt;&lt;span lang=&quot;en-US&quot;&gt;The 1st box is smaller than&lt;br&gt;the 2nd one&lt;/span&gt;&lt;/font&gt;&lt;/p&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1020" y="2380" width="200" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>

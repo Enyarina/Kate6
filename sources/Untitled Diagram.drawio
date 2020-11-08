@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2020-11-08T17:25:18.257Z" agent="5.0 (X11)" etag="NMn_cWSPe61FD5xktBHB" version="13.9.2" type="github">
+<mxfile host="app.diagrams.net" modified="2020-11-08T17:27:03.280Z" agent="5.0 (X11)" etag="_-lzt7vKTteuZxPvZyP0" version="13.9.2" type="github">
   <diagram id="Z-b5cAyWAyKYfnYbo3Bn" name="Page-1">
     <mxGraphModel dx="1355" dy="764" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -255,7 +255,7 @@
         </mxCell>
         <mxCell id="P_6XiOEGU_nMjXpOql53-44" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;" parent="1" source="P_6XiOEGU_nMjXpOql53-43" edge="1">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="360" y="1410" as="targetPoint" />
+            <mxPoint x="360" y="1390" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="P_6XiOEGU_nMjXpOql53-43" value="while (j&amp;lt;i/2) &amp;amp;&amp;amp; (k&amp;lt;i)" style="shape=hexagon;perimeter=hexagonPerimeter2;whiteSpace=wrap;html=1;fixedSize=1;" parent="1" vertex="1">
@@ -284,6 +284,9 @@
               <mxPoint x="99.5" y="990" />
             </Array>
           </mxGeometry>
+        </mxCell>
+        <mxCell id="s2mBqUQljC03Y1ilV7Dx-6" value="&lt;div&gt;box1_counter=0&lt;/div&gt;&lt;div&gt;box2_counter=0&lt;br&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="300" y="1390" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
